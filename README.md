@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Lázaro</h1>  
 <h3 align="center">A Full-Stack Software Engineer aka coffee-powered coding machine.</h3>  
   
-- 🔭 I’m currently working on: **automatization through AI.**  
+- 🔭 I’m currently working on: **Nest.js personal projects.**  
   
-- 🌱 I’m currently learning: **AWS and Golang.**  
+- 🌱 I’m currently learning: **Nest.js and AWS.**  
   
 - 📫 How to reach me: **lazaropower@protonmail.com.**  
   
